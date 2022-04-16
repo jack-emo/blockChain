@@ -4,8 +4,8 @@
 A simple script which helps visualize how Blockchain technology works. A user is able to create a clone of what a Blockchain actually looks like using this program, and thus further understand how this technology that has integrated itself into our lives works!
 
 ### Built with
-* DateTime
-* Hashlib
+* [DateTime](https://docs.python.org/3/library/datetime.html)
+* [Hashlib](https://docs.python.org/3/library/hashlib.html)
 
 ### Features
 * Creates a blockchain with a specified amount of blocks
